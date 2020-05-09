@@ -22,14 +22,14 @@ SoftwareSerial modem(10,11); // RX, TX
 #define PowerModem 7
 
 // Key para acceder a cuenta ubidots
-String TOKEN = "BBFF-X3qG90U80mYLQnoyy4FELtOhQ1iZeU"; 
+String TOKEN = "***************"; 
 // accesso a cuenta ubidots
 // user: serv_control190813
-// pass: som_pass 
+// pass: ***********
 //
 // gmail
 // mail: serv.control190813@gmail.com
-// pass: som_pass
+// pass: ******************
 
 
 // Data del cliente - cliente_XXXX
